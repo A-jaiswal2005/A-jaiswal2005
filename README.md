@@ -12,18 +12,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Cloud**: AWS, Azure, GCP
 
-## 🚀 Projects
-Here are some of my notable projects:
-- [**Project One**](https://github.com/A-jaiswal2005/project-one): A brief description of Project One.
-- [**Project Two**](https://github.com/A-jaiswal2005/project-two): A brief description of Project Two.
-- [**Project Three**](https://github.com/A-jaiswal2005/project-three): A brief description of Project Three.
 
 ## ✍️ Blog Posts
 - [**How to build a REST API with Node.js**](https://medium.com/@A-jaiswal2005/how-to-build-a-rest-api-with-node-js-123456789): A step-by-step guide to building a REST API with Node.js.
 - [**Understanding Python Decorators**](https://medium.com/@A-jaiswal2005/understanding-python-decorators-123456789): An in-depth look at Python decorators and how to use them.
 
 ## 📫 How to reach me
-- **Email**: [a-jaiswal2005@example.com](mailto:a-jaiswal2005@example.com)
+- **Email**: [akj.ankit2005@gmail.com](mailto:akj.ankit2005@gmail.com)
 - **LinkedIn**: [A-jaiswal2005](https://linkedin.com/in/A-jaiswal2005)
 - **Twitter**: [@A-jaiswal2005](https://twitter.com/A-jaiswal2005)
 
